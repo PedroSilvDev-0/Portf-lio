@@ -13,7 +13,7 @@ function Navbar() {
             <ul>
                 <li> <a href=''> <FaInstagram size={30}/> </a> </li>
                 <li> <a href=''> <FaLinkedin size={30}/> </a> </li>
-                <li> <a href=''> <FaGithub size={30}/> </a> </li>
+                <li> <a href='https://github.com/PedroSilvDev-0'> <FaGithub size={30}/> </a> </li>
             </ul>
         </div>
     )
