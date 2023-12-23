@@ -6,3 +6,7 @@
 .projects h1 {
     font-size: 45px;
 }
+
+.projects > section {
+    text-align: center;
+}

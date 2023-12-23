@@ -24,7 +24,9 @@ function Projects() {
             repo='https://github.com/PedroSilvDev-0'
             site='https://github.com/PedroSilvDev-0'
             />
-            <ButtonB text='Acesse meu repositório' link='https://github.com/PedroSilvDev-0' />
+            <section>
+                <ButtonB text='Ver repositório completo' link='https://github.com/PedroSilvDev-0' />
+            </section>
         </div>
     )
 }
