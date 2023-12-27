@@ -5,8 +5,8 @@ function Footer() {
     return (
         <div className={styles.footer}>
             <ul>
-                <li> <a href=''> <FaInstagram size={30}/> </a> </li>
-                <li> <a href=''> <FaLinkedin size={30}/> </a> </li>
+                <li> <a href='instagram.com'> <FaInstagram size={30}/> </a> </li>
+                <li> <a href='linkedin.com'> <FaLinkedin size={30}/> </a> </li>
                 <li> <a href='https://github.com/PedroSilvDev-0'> <FaGithub size={30}/> </a> </li>
             </ul>
             <p>silvsrhyan@gmail.com</p>
